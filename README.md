@@ -1,5 +1,5 @@
-# Sass
-[Sass](https://sass-lang.com)
+# [Sass](https://sass-lang.com)
+Sass: Syntactically awesome stylesheets, is a stable extension to classic CSS.
 
 ## Installation  
 Check you version  
